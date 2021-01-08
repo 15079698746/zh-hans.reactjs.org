@@ -22,3 +22,4 @@ author: [gaearon,laurentan,josephsavona,sebmarkbage]
 3. **[阅读 RFC（包含常见问题）](https://github.com/reactjs/rfcs/pull/188)**以了解更深层的技术细节，并提出你的建议。
 
 我们非常希望你能在 RFC 上回复或 [@reactjs](https://twitter.com/reactjs) 的 Twitter 说出你的想法。节日快乐，明年见！
+4. 加油 奥里给
